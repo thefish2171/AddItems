@@ -2,6 +2,13 @@
 
 All notable changes to the `add-items` extension will be documented in this file.
 
+## [2.2.13] - No update required (yet)
+
+Due to the lack of response from the eclipse foundation, on a problem I'm having to update this very extension, I'm moving the repo back to my profile, and deleting the `kineticSnippet` organization, so I can can make changes (and update) the extension on [open-vsx](https://open-vsx.org/extension/kineticSnippet/add-items) which I haven't been able to update.
+
+- Reverted repo to profile instead organization ([2.27])
+<!-- TODO: Update links -->
+
 ## [2.2.13] - 2024-10-12 : Improved Contributions guidelines
 
 - Added an start up guide
