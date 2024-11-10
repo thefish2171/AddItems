@@ -45,10 +45,6 @@ All contributions are welcome!
 
 Make sure to read the [contributions guidelines](/Contributions.md) before.
 
-## C# extension
-
-If you are a C# developer, you may be interested in [this extension](https://github.com/KineticSnippet/DotnetTools)
-
 ## Credits
 
 Extension icon: [yoteyo](https://www.flaticon.com/authors/yoteyo)  
